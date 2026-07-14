@@ -33,8 +33,8 @@ def hello():
                 <h1>MÔN HỌC: CLOUD COMPUTING</h1>
                 <h2>LAB 8: TRIỂN KHAI CI/CD PIPELINE VỚI JENKINS VÀ DOCKER</h2>
                 <hr>
-                <p><b>Sinh viên thực hiện:</b> Lương Hoàng Thông</p>
-                <p><b>Mã số sinh viên (MSSV):</b> 23DH113430</p>
+                <p><b>Sinh viên thực hiện:</b> Trần Phan Cảnh Phúc</p>
+                <p><b>Mã số sinh viên (MSSV):</b> 23DH112758</p>
                 <hr>
                 <p style="color: #666; font-size: 14px;"><i>Trạng thái: Pipeline hoạt động hoàn toàn tự động trên AWS EC2!</i></p>
             </div>
